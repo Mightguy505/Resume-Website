@@ -1,0 +1,110 @@
+.container{
+    background-color: rgb(53, 53, 95);
+    border:2px solid black;
+    width: 65vw;
+    height: 145vh;
+    position: relative;
+    left: 273px;
+}
+
+.container2{
+    background-color: rgb(225, 254, 244);
+    border:2px solid black;
+    border-radius: 30px;
+    position: relative;
+    left:85px;
+    top:20px;
+    height: 135vh;
+    width:55vw;
+}
+
+.box{
+    border-radius: 30px;
+    background-color: rgb(207, 201, 201);
+    width: 53vw;
+    padding: 15px; 
+    
+}
+
+.aboutme p{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ width:23vw;
+}
+.name{
+    position: relative;
+    top: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif, Times, serif;
+}
+.inline{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.careerobj{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left:20px;
+    width: 28vw;
+}
+
+.skills{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left:20px;
+}
+
+.certifications{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left:20px;
+    width: 25vw;
+}
+
+
+.dp img{
+    border: 10px solid rgb(255, 254, 254);
+    border-radius: 150px;
+    height: 30vh;
+    width: 15vw;
+    position: relative;
+    left: 520px;
+    bottom: 1380px;
+}
+.content{
+    color: white;
+    background-color: rgb(63, 67, 93);
+    border-radius: 30px;
+    width: 20vw;
+    height: 82vh;
+    position: relative;
+    left:500px;
+    bottom:600px;
+}
+
+.mywork{
+    
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    left:20px;
+
+}
+.mywork a{
+    color: rgb(18, 216, 216);
+    
+}
+.education{
+    position: relative;
+    top:100px;
+    left:20px;
+}
+
+.content ul{
+    font-size: 18px;
+    position: relative;
+    top:90px;
+    
+}
+
+
